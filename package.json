@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "start": "node maxAndMin"
+    "start": "node 7_kyu/evensAndOdds"
   },
   "keywords": [],
   "author": "",
