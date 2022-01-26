@@ -3,9 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "jest": {
+    "verbose": true
+  },
   "scripts": {
-    "test": "jest",
-    "start": "node 7_kyu/productArray"
+    "test": "jest leetcode/easy/20_Valid_Parentheses",
+    "start": "node leetcode/easy/20_Valid_Parentheses"
   },
   "keywords": [],
   "author": "",
