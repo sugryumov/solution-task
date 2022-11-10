@@ -7,13 +7,13 @@
     "verbose": true
   },
   "scripts": {
-    "test": "jest leetcode/easy/20_Valid_Parentheses",
-    "start": "node leetcode/easy/20_Valid_Parentheses"
+    "test": "jest",
+    "start": "node"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "jest": "^26.6.2"
+  "devDependencies": {
+    "jest": "^29.3.1"
   }
 }
